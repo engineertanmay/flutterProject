@@ -31,8 +31,7 @@ dependencies:
   response: ^0.1.1
   get: ^3.24.0
   google_fonts: ^1.1.1
-  dart_extensions: ^1.0.2
-  response: ^0.1.1
+  flare_flutter: ^2.0.6
 
 dev_dependencies:
   flutter_test:
